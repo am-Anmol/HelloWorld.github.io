@@ -4,4 +4,4 @@
  1. HTML
  2. CSS
 
-### View Deployment [Click Me](https://am-anmol.github.io/HelloWorld.github.io)
+### [View Deployment](https://am-anmol.github.io/HelloWorld.github.io)
